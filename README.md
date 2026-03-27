@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash Sharma
 
-🚀 AI/ML Engineer | GenAI Developer | Full-Stack Builder
+🚀 AI/ML Engineer | GenAI Developer |
 
 ---
 
