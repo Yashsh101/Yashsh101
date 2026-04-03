@@ -53,7 +53,8 @@ Unsupervised NLP project to extract meaningful topics from large text datasets.
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Yashsh101
+* Linkedin: www.linkedin.com/in/yash-sharma-262923183
+
 
 ---
 
