@@ -1,87 +1,101 @@
-👋 Hi, I'm Yash Sharma
+👋 Yash Sharma
 
-🚀 Aspiring AI Engineer | Building Production-Ready ML & GenAI Systems
+AI/ML Engineer — Building Production-Grade NLP & GenAI Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashsh101&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-⚡ About Me
-🧠 Building end-to-end AI systems (Model → API → UI → Deployment)
-🤖 Passionate about Generative AI, NLP & real-world automation
-⚙️ Strong in ML + Backend + Full-Stack integration
-🏆 Hackathon builder (Google Gen AI Exchange)
-🎯 Focused on scalable AI systems & performance optimization
-🚀 Open to AI/ML Internships & Opportunities
-🔥 Featured Project
-🚀 Customer Inquiry Classifier (Flagship Project)
+I design and deploy real-world AI systems focused on performance, scalability, and measurable impact — from classical ML pipelines to modern LLM-powered applications.
 
-Production-grade NLP system classifying customer queries in <15ms
+🧠 What I Do
+Build end-to-end AI systems (Model → API → UI → Deployment)
+Develop NLP & GenAI applications (classification, RAG, automation)
+Optimize for real-world metrics — latency, accuracy, business impact
+Translate customer problems → AI solutions
 
-⚡ 93%+ Accuracy
-🧠 TF-IDF + Ensemble (SVC + Logistic Regression)
-🌐 FastAPI backend + Streamlit UI
-🧪 Tested + CI pipeline
-🚀 Deployed live
+🚀 Selected Projects
 
-🔗 Live Demo:
-https://customer-inquiry-classifier-1.streamlit.app/
+🧠 DocuMind v3 — AI Customer Support Copilot (Most Advanced)
+Production-grade RAG system for grounded customer support automation
 
-🔗 GitHub:
-https://github.com/Yashsh101/customer-inquiry-classifier
+Built with FastAPI, FAISS, BM25, cross-encoder reranking
+Implemented HyDE retrieval + hybrid search
+Added:
+confidence scoring
+escalation flags
+conversation memory
+citation-based responses
+Designed a SaaS-style UI with live metrics
 
-🚀 Other Projects
+👉 This is a real production-style AI system, not a demo.
+
+🚀 Customer Inquiry Classifier (Production NLP System)
+
+Classifies customer queries into actionable categories in <15ms
+
+TF-IDF + Ensemble (SVC + Logistic Regression)
+Calibrated probabilities + keyword explainability
+FastAPI backend + Streamlit UI
+Fully tested with CI pipeline
+Deployed live
+
+
+💳 Fraud Detection System
+
+High-recall ML system for detecting fraudulent transactions
+
+Achieved 95% recall on imbalanced dataset
+Reduced false positives by 20%
+Built using:
+LightGBM
+SMOTE
+advanced feature engineering
+
+👉 Designed for real financial risk scenarios
+
 ✈️ AI Trip Planner (GenAI)
-Personalized travel itineraries using Gemini AI
-Full-stack system (React + Node.js + APIs)
-Google Maps integration
 
-🔗 Live Demo:https://ai-planner-frontend-snowy.vercel.app/
-https://customer-inquiry-classifier-1.streamlit.app/
+Full-stack Generative AI application (Hackathon Project)
 
-🔗 https://github.com/Yashsh101/AI-Trip-Planner-Frontend
+Built using Gemini (Vertex AI), React, Node.js, Firebase
+Generates dynamic, personalized itineraries
+Integrated real-time travel logic
+Recognized at Google Gen AI Exchange Hackathon 2025
 
-💳 Fraud Detection Model
-ML system optimized for high recall (fraud-sensitive use case)
-Real-world financial dataset
+💼 Experience Snapshot
+Data Science Intern — Celebal Technologies
+Built NLP classifier (90% accuracy)
+Reduced query triage time by 40%
+Designed topic modeling pipeline on 50K+ records
+Customer Support (TaskUs, Concentrix, Urban Company)
+Maintained 95%+ CSAT
+Improved support workflows using pattern analysis
 
-🔗 https://github.com/Yashsh101/fraud-detection-model
-
-🧠 Document Clustering & Topic Modeling
-Unsupervised NLP system for extracting insights
-Topic modeling on large text datasets
-
-🔗 https://github.com/Yashsh101/document-clustering-topic-modeling
+👉 Strong blend of AI + real customer problem understanding
 
 🛠️ Tech Stack
-💻 Languages
 
-Python · JavaScript
+Languages: Python, JavaScript
 
-🤖 AI / ML
+AI/ML:
 
-scikit-learn · NLP · TF-IDF · Classification
-Generative AI (Gemini, Vertex AI)
+scikit-learn, LightGBM, PyTorch
+NLP, TF-IDF, Topic Modeling
+LLMs, RAG, Prompt Engineering
 
-⚙️ Backend
+Backend: FastAPI, Node.js
 
-FastAPI · Node.js · REST APIs
+Frontend: React, Streamlit
 
-🎨 Frontend
+Infra & Tools:
+Docker, Firebase, GitHub Actions
 
-React · Streamlit
+🎯 What I'm Focused On
+Building production-ready AI systems
+Advancing in LLMs, RAG, and AI system design
+Improving model performance & latency
+Preparing for AI/ML engineering roles
 
-☁️ Tools
-
-Firebase · Firestore · Docker · GitHub Actions
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yashsh101&show_icons=true&theme=radical" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashsh101&theme=radical" height="150"/> </p>
-📈 Currently Focused On
-🚀 Building production-grade AI systems
-⚡ Improving model performance & latency
-🧠 Advanced NLP & Generative AI
-🎯 Preparing for AI Engineer roles
-🌐 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/yash-sharma-262923183
-💻 GitHub: https://github.com/Yashsh101
+🌐 Connect
+LinkedIn: https://www.linkedin.com/in/yash-sharma-262923183
+GitHub: https://github.com/Yashsh101
 
 ⚡ Philosophy
-I build real, deployed AI systems — not just notebooks.
+I don’t just build models — I build AI systems that solve real problems in production.
