@@ -38,8 +38,6 @@ NLP system for classifying customer queries in **<15ms**.
 * FastAPI backend + Streamlit UI
 * CI-tested & deployed
 
-🔗 [https://github.com/Yashsh101/customer-inquiry-classifier](https://github.com/Yashsh101/customer-inquiry-classifier)
-
 ---
 
 ### 💳 Fraud Detection System
