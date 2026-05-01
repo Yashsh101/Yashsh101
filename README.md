@@ -2,7 +2,7 @@
 
 MCA 4th semester AI/ML student building production-oriented RAG, NLP, GenAI, and backend AI systems.
 
-I focus on turning ML ideas into usable systems: APIs, evaluation, deployment plans, clean documentation, tests, and recruiter-readable product stories.
+I turn ML ideas into usable software: APIs, evaluation, deployment plans, clean documentation, tests, and recruiter-readable product stories.
 
 ## Focus Areas
 
@@ -13,14 +13,14 @@ I focus on turning ML ideas into usable systems: APIs, evaluation, deployment pl
 
 ## Featured Projects
 
-| Project | What it shows | Stack | Status |
+| Project | One-line description | Stack | Status |
 | --- | --- | --- | --- |
-| [TraceRAG](https://github.com/Yashsh101/trace-rag-system) | Flagship RAG system with ingestion, hybrid retrieval, citations, ACL, traces, evals, tests, Docker, and Next.js console | FastAPI, Next.js, Postgres, pgvector, OpenAI | Flagship, deployment-ready |
-| [DocuMind AI Copilot](https://github.com/Yashsh101/documind-ai-copilot) | Customer-support RAG copilot with memory, reranking, PDF upload, citations, and streaming responses | FastAPI, FAISS, BM25, OpenAI | Improved for deployment |
-| [Customer Inquiry Classifier](https://github.com/Yashsh101/customer-inquiry-classifier) | Confidence-aware NLP router for support tickets with FastAPI, Streamlit, tests, CI, model card, and dataset card | scikit-learn, FastAPI, Streamlit | Live Streamlit demo |
-| [Document Clustering and Topic Modeling](https://github.com/Yashsh101/document-clustering-topic-modeling) | Unsupervised NLP pipeline for clustering, topic modeling, evaluation, and interactive exploration | scikit-learn, NLTK, Streamlit | Live Streamlit demo |
-| [AI Trip Planner Backend](https://github.com/Yashsh101/AI-Trip-Planner-Backend) | Production-style GenAI backend with Gemini, Firebase, async jobs, caching, rate limiting, and tests | Node.js, TypeScript, Firebase, Gemini | Deployed |
-| [Portfolio Website](https://github.com/Yashsh101/Yash-Portfolio-) | Personal AI/ML portfolio with selected projects and resume surface | HTML, CSS, Vercel | Live on Vercel |
+| [TraceRAG](https://github.com/Yashsh101/trace-rag-system) | Flagship RAG platform with ingestion, hybrid retrieval, citations, traces, ACL, evals, CI, Docker, and a Next.js console. | FastAPI, Next.js, Postgres, pgvector, OpenAI | Demo coming soon |
+| [DocuMind AI Copilot](https://github.com/Yashsh101/documind-ai-copilot) | Customer-support RAG copilot with PDF upload, memory, reranking, citations, and streaming responses. | FastAPI, FAISS, BM25, OpenAI | Demo coming soon |
+| [Customer Inquiry Classifier](https://github.com/Yashsh101/customer-inquiry-classifier) | Confidence-aware NLP router for support messages with Streamlit UI, FastAPI API, CI, model card, and dataset card. | scikit-learn, FastAPI, Streamlit | [Live demo](https://customer-inquiry-classifier-1.streamlit.app/) |
+| [Document Clustering and Topic Modeling](https://github.com/Yashsh101/document-clustering-topic-modeling) | Unsupervised NLP pipeline for clustering documents, extracting topics, evaluating quality, and exploring results. | scikit-learn, NLTK, Streamlit | [Live demo](https://document-clustering-topic-modeling-fckmphgfctfun5zxdxuor3.streamlit.app/) |
+| [AI Trip Planner Backend](https://github.com/Yashsh101/AI-Trip-Planner-Backend) | GenAI travel backend with Gemini, Firebase, async jobs, caching, rate limiting, tests, and deployment docs. | Node.js, TypeScript, Firebase, Gemini | Deployed |
+| [Portfolio Website](https://github.com/Yashsh101/Yash-Portfolio-) | Personal AI/ML portfolio with selected projects, resume surface, and contact links. | HTML, CSS, Vercel | [Live site](https://yashsharma01.vercel.app/) |
 
 ## Tech Stack
 
