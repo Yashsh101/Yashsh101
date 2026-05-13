@@ -19,7 +19,7 @@ I build projects with clear problem framing, clean architecture, tests, document
 | **DocuMind AI Copilot** | Customer-support RAG copilot that turns uploaded policy PDFs into citation-backed answers with memory, reranking, and streaming responses. | FastAPI, FAISS, BM25, OpenAI, Python | [Repo](https://github.com/Yashsh101/documind-ai-copilot) |
 | **Customer Inquiry Classifier** | Confidence-aware NLP routing system that classifies support messages and escalates uncertain cases for human review. | scikit-learn, FastAPI, Streamlit, Python | [Repo](https://github.com/Yashsh101/customer-inquiry-classifier) · [Demo](https://customer-inquiry-classifier.vercel.app/) |
 | **Document Clustering and Topic Modeling** | Unsupervised NLP pipeline for grouping documents, extracting themes, evaluating cluster quality, and exploring results interactively. | scikit-learn, NLTK, Streamlit, Python | [Repo](https://github.com/Yashsh101/document-clustering-topic-modeling) · [Demo](https://document-clustering-topic-modeling-fckmphgfctfun5zxdxuor3.streamlit.app/) |
-| **AI Trip Planner Frontend** | GenAI backend for itinerary generation with async jobs, caching, rate limiting, Firebase integration, and production deployment docs. | Node.js, TypeScript, Firebase, Gemini | [Repo](https://github.com/Yashsh101/AI-Trip-Planner-Backend) · [Demo](https://ai-planner-frontend-snowy.vercel.app/)|
+| **AI Trip Planner Frontend** | A sophisticated AI-frontend integration that streamlines complex trip planning into instantaneous, data-driven, and personalized travel itineraries. | React, Vite, Tailwind CSS, Lucide React | [Repo](https://github.com/Yashsh101/AI-Trip-Planner-Frontend.git) · [Demo](https://ai-planner-frontend-snowy.vercel.app/)|
 
 ## Tech Stack
 
