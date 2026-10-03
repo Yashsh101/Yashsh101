@@ -16,10 +16,10 @@ I build projects with clear problem framing, clean architecture, tests, document
 | Project | Impact | Tech | Link |
 | --- | --- | --- | --- |
 | **TraceRAG** | Full-stack RAG system with document ingestion, hybrid retrieval, citation grounding, ACL, query tracing, evals, CI, Docker, and Next.js console. | FastAPI, Next.js, Postgres, pgvector, OpenAI, Python, TypeScript | [Repo](https://github.com/Yashsh101/trace-rag-system) |
-| **DocuMind AI Copilot** | Customer-support RAG copilot that turns uploaded policy PDFs into citation-backed answers with memory, reranking, and streaming responses. | FastAPI, FAISS, BM25, OpenAI, Python | [Repo](https://github.com/Yashsh101/documind-ai-copilot) |
-| **Customer Inquiry Classifier** | Confidence-aware NLP routing system that classifies support messages and escalates uncertain cases for human review. | scikit-learn, FastAPI, Streamlit, Python | [Repo](https://github.com/Yashsh101/customer-inquiry-classifier) · [Demo](https://customer-inquiry-classifier.vercel.app/) |
+| **DocuMind AI Copilot** | Customer-support RAG copilot that extracts uploaded PDFs, stores dense embeddings, and returns streamed OpenRouter answers with source metadata. | FastAPI, FAISS, sentence-transformers, OpenRouter, Python | [Repo](https://github.com/Yashsh101/documind-ai-copilot) |
+| **Customer Inquiry Classifier** | Confidence-aware NLP routing system that classifies support messages and escalates uncertain cases for human review. | scikit-learn, FastAPI, Vercel, Python | [Repo](https://github.com/Yashsh101/customer-inquiry-classifier) · [Demo](https://customer-inquiry-classifier.vercel.app/) |
 | **Document Clustering and Topic Modeling** | Unsupervised NLP pipeline for grouping documents, extracting themes, evaluating cluster quality, and exploring results interactively. | scikit-learn, NLTK, Streamlit, Python | [Repo](https://github.com/Yashsh101/document-clustering-topic-modeling) · [Demo](https://document-clustering-topic-modeling-fckmphgfctfun5zxdxuor3.streamlit.app/) |
-| **AI Trip Planner Frontend** | A sophisticated AI-frontend integration that streamlines complex trip planning into instantaneous, data-driven, and personalized travel itineraries. | React, Vite, Tailwind CSS, Lucide React | [Repo](https://github.com/Yashsh101/AI-Trip-Planner-Frontend.git) · [Demo](https://ai-planner-frontend-snowy.vercel.app/)|
+| **AI Trip Planner** | React streaming client integrated with a TypeScript/Gemini backend using RAG context, SSE events, async jobs, caching, and validation. | React, TypeScript, Vite, Gemini, RAG | [Frontend](https://github.com/Yashsh101/ai-trip-planner-frontend) · [Backend](https://github.com/Yashsh101/ai-trip-planner-backend) |
 
 ## Tech Stack
 
@@ -42,5 +42,5 @@ I build projects with clear problem framing, clean architecture, tests, document
 - GitHub: [github.com/Yashsh101](https://github.com/Yashsh101)
 - LinkedIn: [linkedin.com/in/yash-sharma-262923183](https://www.linkedin.com/in/yash-sharma-262923183)
 - Portfolio: [yashsharma01.vercel.app](https://yashsharma01.vercel.app/)
-- Resume: [Yash-Sharma.pdf](https://github.com/Yashsh101/Yash-Portfolio-/blob/main/Yash-Sharma.pdf)
+- Resume: [Yash-Sharma.pdf](https://github.com/Yashsh101/yash-portfolio/blob/main/Yash-Sharma.pdf)
 - Email: [syash2297@gmail.com](mailto:syash2297@gmail.com)
