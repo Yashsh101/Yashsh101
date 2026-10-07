@@ -1,8 +1,8 @@
-# Yash Sharma — AI/ML Engineer building RAG, NLP, GenAI, and production ML systems
+# Yash Sharma — AI/ML Engineer building RAG, NLP, GenAI, and applied ML systems
 
-MCA AI/ML student focused on shipping applied AI systems beyond notebooks: retrieval pipelines, ML APIs, evaluation workflows, and deployment-ready backends.
+MCA AI/ML student focused on shipping applied AI systems beyond notebooks: retrieval pipelines, ML APIs, evaluation workflows, and deployable backends.
 
-I build projects with clear problem framing, clean architecture, tests, documentation, and production-oriented engineering habits.
+I build projects with clear problem framing, clean architecture, tests, documentation, and deployment-oriented engineering habits.
 
 ## Core Focus
 
@@ -18,7 +18,7 @@ I build projects with clear problem framing, clean architecture, tests, document
 | **TraceRAG** | Full-stack RAG system with document ingestion, hybrid retrieval, citation grounding, ACL, query tracing, evals, CI, Docker, and Next.js console. | FastAPI, Next.js, Postgres, pgvector, OpenAI, Python, TypeScript | [Repo](https://github.com/Yashsh101/trace-rag-system) |
 | **DocuMind AI Copilot** | Customer-support RAG copilot that extracts uploaded PDFs, stores dense embeddings, and returns streamed OpenRouter answers with source metadata. | FastAPI, FAISS, sentence-transformers, OpenRouter, Python | [Repo](https://github.com/Yashsh101/documind-ai-copilot) |
 | **Customer Inquiry Classifier** | Confidence-aware NLP routing system that classifies support messages and escalates uncertain cases for human review. | scikit-learn, FastAPI, Vercel, Python | [Repo](https://github.com/Yashsh101/customer-inquiry-classifier) · [Demo](https://customer-inquiry-classifier.vercel.app/) |
-| **Document Clustering and Topic Modeling** | Unsupervised NLP pipeline for grouping documents, extracting themes, evaluating cluster quality, and exploring results interactively. | scikit-learn, NLTK, Streamlit, Python | [Repo](https://github.com/Yashsh101/document-clustering-topic-modeling) · [Demo](https://document-clustering-topic-modeling-fckmphgfctfun5zxdxuor3.streamlit.app/) |
+| **Document Clustering and Topic Modeling** | Unsupervised NLP pipeline for grouping documents, extracting themes, evaluating cluster quality, and exploring results interactively. | scikit-learn, NLTK, Streamlit, Python | [Repo](https://github.com/Yashsh101/document-clustering-topic-modeling) · Demo pending verification |
 | **AI Trip Planner** | React streaming client integrated with a TypeScript/Gemini backend using RAG context, SSE events, async jobs, caching, and validation. | React, TypeScript, Vite, Gemini, RAG | [Frontend](https://github.com/Yashsh101/ai-trip-planner-frontend) · [Backend](https://github.com/Yashsh101/ai-trip-planner-backend) |
 
 ## Tech Stack
